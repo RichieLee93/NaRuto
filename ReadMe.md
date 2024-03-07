@@ -63,6 +63,6 @@ Additionally, run `python COMET-BM/global_negation.py` for generating global neg
 If you feel the code helpful, please cite:
 
 ```  
-Paper is now under review of AAAI24 conference.
+The paper was accepted by the AAAI24 conference. Citation info will come later.
 
 ```
