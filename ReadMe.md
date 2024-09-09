@@ -63,6 +63,14 @@ Additionally, run `python COMET-BM/global_negation.py` for generating global neg
 If you feel the code helpful, please cite:
 
 ```  
-The paper was accepted by the AAAI24 conference. Citation info will come later.
+@inproceedings{li2024naruto,
+  title={NaRuto: Automatically Acquiring Planning Models from Narrative Texts},
+  author={Li, Ruiqi and Cui, Leyang and Lin, Songtuan and Haslum, Patrik},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={18},
+  pages={20194--20202},
+  year={2024}
+}
 
 ```
